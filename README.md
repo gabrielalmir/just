@@ -2,6 +2,8 @@
 
 Just is a simple Rust application that allows you to execute JavaScript code using the V8 engine. It supports both REPL mode and executing JavaScript files.
 
+![Hello World from Just](./assets/screenshot.png)
+
 ## Installation
 
 To use Just, you need to have Rust installed on your system. If you don't have Rust installed, you can get it from [rust-lang.org](https://www.rust-lang.org/).
